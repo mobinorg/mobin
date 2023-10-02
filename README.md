@@ -1,0 +1,2 @@
+# mobin
+just another repository
